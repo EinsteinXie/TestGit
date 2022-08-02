@@ -12,5 +12,3 @@
 Add
 
 luobo add
-
-new1
